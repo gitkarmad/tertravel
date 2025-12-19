@@ -1,0 +1,36 @@
+/* Icon Font - Simple CSS Icons */
+.icon-phone::before {
+  content: "📞";
+}
+.icon-email::before {
+  content: "✉️";
+}
+.icon-whatsapp::before {
+  content: "💬";
+}
+.icon-location::before {
+  content: "📍";
+}
+.icon-clock::before {
+  content: "🕐";
+}
+.icon-users::before {
+  content: "👥";
+}
+.icon-star::before {
+  content: "⭐";
+}
+.icon-star.filled::before {
+  content: "⭐";
+}
+.icon-facebook::before {
+  content: "📘";
+}
+.icon-instagram::before {
+  content: "📷";
+}
+.icon-twitter::before {
+  content: "🐦";
+}
+
+/* Alternative: You can replace these with Font Awesome or other icon fonts */
